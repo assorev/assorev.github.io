@@ -111,6 +111,8 @@ body{
 @media only screen and (max-width:1199px){
     .informations-container{
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .bank-informations{
         padding: 35px 0 0;
